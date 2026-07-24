@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Vanessa 👋
 
-<!--
-**vvy00/vvy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Aspiring Software Engineer and Machine Learning Engineer
+- Interested in AI, machine learning, and health technology
+- Building projects with Python, Java, and JavaScript
+- Always learning and developing new technical skills
 
-Here are some ideas to get you started:
+### Random Fun Facts Typing Test
+Interactive web application built with HTML, CSS, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Python
+- Java
+- JavaScript
+- HTML/CSS
+- SQL
+- C++
+- Arduino
+- Git/GitHub
