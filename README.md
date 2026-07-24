@@ -15,6 +15,9 @@
 - C++
 - Arduino
 - Git/GitHub
-  
+
+### Connect With Me
+- Email: vyvanessa2x@gmail.com
+
 ### Random Fun Facts Typing Test
 Interactive web application built with HTML, CSS, and JavaScript.
