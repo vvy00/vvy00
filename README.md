@@ -16,7 +16,7 @@
 - Arduino
 - Git/GitHub
 
-### Random Fun Facts Typing Test
+### Featured Project: Random Fun Facts Typing Test
 Interactive web application built with HTML, CSS, and JavaScript
 
 ### Connect With Me
