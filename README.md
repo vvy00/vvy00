@@ -6,9 +6,6 @@
 - Building projects with Python, Java, and JavaScript
 - Always learning and developing new technical skills
 
-### Random Fun Facts Typing Test
-Interactive web application built with HTML, CSS, and JavaScript.
-
 ## Tech Stack
 - Python
 - Java
@@ -18,3 +15,6 @@ Interactive web application built with HTML, CSS, and JavaScript.
 - C++
 - Arduino
 - Git/GitHub
+  
+### Random Fun Facts Typing Test
+Interactive web application built with HTML, CSS, and JavaScript.
