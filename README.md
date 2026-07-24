@@ -16,8 +16,8 @@
 - Arduino
 - Git/GitHub
 
+### Random Fun Facts Typing Test
+Interactive web application built with HTML, CSS, and JavaScript
+
 ### Connect With Me
 - Email: vyvanessa2x@gmail.com
-
-### Random Fun Facts Typing Test
-Interactive web application built with HTML, CSS, and JavaScript.
