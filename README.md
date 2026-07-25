@@ -17,7 +17,7 @@
 - Git/GitHub
 
 ### Featured Project: [Random Fun Facts Typing Test](https://github.com/vvy00/typing-test)
-Interactive web application built with HTML, CSS, and JavaScript that helps users improve typing speed while displaying random fun facts
+- Interactive web application built with HTML, CSS, and JavaScript that helps users improve typing speed while displaying random fun facts
 
 ### Connect With Me
 - Email: vyvanessa2x@gmail.com
