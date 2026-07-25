@@ -16,7 +16,7 @@
 - Arduino
 - Git/GitHub
 
-### Featured Project: Random Fun Facts Typing Test (*https://github.com/vvy00/typing-test/edit/main/README.md)
+### Featured Project: Random Fun Facts Typing Test (*https://github.com/vvy00/typing-test)
 Interactive web application built with HTML, CSS, and JavaScript
 
 ### Connect With Me
