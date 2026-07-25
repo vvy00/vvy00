@@ -7,7 +7,7 @@
 - Always learning and developing new technical skills
 
 ## Tech Stack
-- Languages: Python, Java, C++
+- **Languages**: Python, Java, C++
 - Data Science: Pandas, NumPy, scikit-learn, TensorFlow
 - Web Dev: HTML, CSS, JavaScript (basic), Node.js
 - Tools: Jupyter Notebooks, Google Colab, Git, GitHub
