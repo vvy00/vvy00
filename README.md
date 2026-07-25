@@ -7,14 +7,11 @@
 - Always learning and developing new technical skills
 
 ## Tech Stack
-- Python
-- Java
-- JavaScript
-- HTML/CSS
-- SQL
-- C++
-- Arduino
-- Git/GitHub
+- Languages: Python, Java, C++
+- Data Science: Pandas, NumPy, scikit-learn, TensorFlow
+- Web Dev: HTML, CSS, JavaScript (basic), Node.js
+- Tools: Jupyter Notebooks, Google Colab, Git, GitHub
+- Databases: SQL, MySQL
 
 ### Featured Project: [Random Fun Facts Typing Test](https://github.com/vvy00/typing-test)
 - Interactive web application built with HTML, CSS, and JavaScript that helps users improve typing speed while displaying random fun facts
